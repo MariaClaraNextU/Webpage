@@ -1,0 +1,32 @@
+img {
+    -webkit-border-radius: 20px 20px 20px 20px;
+    border-radius: 20px 20px 20px 20px;
+    border:dashed 5px #ff66b3;
+}
+
+body { 
+    font-family: sans-serif; 
+    background-image: url('images/kissm.jpg');
+}
+
+h1 { 
+    color: red; 
+    font-size: 2em;
+    font-family: 'verdana'; 
+    text-align:center; 
+}
+
+div {
+	text-align: center;
+}
+
+.texto{
+	background-color: white;
+
+}
+
+p { color: red;
+background-color: white;
+padding: 10px;
+margin: 20px;
+}
